@@ -9,8 +9,9 @@ their audience's ignorance and gullibility.
 promoters, or astrologers.)
 
 * [Robert E. Grant](https://robertedwardgrant.com/) (the Time AI guy)
-* [Ray Kurzweil](https://www.thekurzweillibrary.com/) (yes)
-* [Avi Loeb](https://lweb.cfa.harvard.edu/~loeb/) (aliens existence claims etc.)
+* [Michio Kaku](https://mkaku.org/) (quantum computing)
+* [Ray Kurzweil](https://www.thekurzweillibrary.com/) (yes, the singularity guy)
+* [Avi Loeb](https://lweb.cfa.harvard.edu/~loeb/) (aliens existence)
 
 
 References:
