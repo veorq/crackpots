@@ -12,6 +12,7 @@ promoters, or astrologers.)
 * [Michio Kaku](https://mkaku.org/) (quantum computing)
 * [Ray Kurzweil](https://www.thekurzweillibrary.com/) (yes, the singularity guy)
 * [Avi Loeb](https://lweb.cfa.harvard.edu/~loeb/) (aliens existence)
+* [Max Tegmark](https://space.mit.edu/home/tegmark/home.html) (multiverse)
 
 
 References:
