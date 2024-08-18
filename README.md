@@ -1,9 +1,10 @@
 # Crackpots and charlatans list
 
-List of crackpot 'scientists' and 'thinkers' abusing their academic
-credentials (if any) or past legitimate works (if any) to spread
-misinformation and/or pseudoscience and/or nonsense and capitalize on
-their audience's ignorance and gullibility. 
+List of [crackpot](https://math.ucr.edu/home/baez/crackpot.html)
+'scientists' and 'thinkers' abusing their academic credentials (if any)
+or past legitimate works (if any) to spread misinformation and/or
+pseudoscience and/or nonsense and capitalize on their audience's
+ignorance and gullibility. 
 
 (Doesnt include the obvious frauds like flatearthers, medbed
 promoters, or astrologers.)
