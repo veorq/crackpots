@@ -22,7 +22,7 @@ gullibility, undermining genuine scientific discourse.
 * [Sara Walker](https://search.asu.edu/profile/1731899), ASU (assembly theory)
 
 
-### Dislaimers:
+### Disclaimers
 
 * The list doesnt include the obvious frauds like flatearthers, medbed
   promoters, or astrologers.
@@ -41,7 +41,7 @@ gullibility, undermining genuine scientific discourse.
 * Obviously, the list isnt exhaustive.
 
 
-### References:
+### References
 
 * Baez' 1998 physics [crackpot index](https://math.ucr.edu/home/baez/crackpot.html)
 * Gruenberber's 1962 ["A measure for crackpots"](https://www.rand.org/content/dam/rand/pubs/papers/2006/P2678.pdf)
