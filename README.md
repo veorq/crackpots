@@ -39,7 +39,7 @@ Alphabetically:
   flags counting to expert review of their claims. Everyone listed here
   was clearly identified as a crackpot. One may object "I read
   their book and I loved it" or "they also did research X which is
-  completely legit"; these are mutually exclusive with them being a
+  completely legit"; these are not mutually exclusive with them being a
   crackpot.
 * Obviously, the list isnt exhaustive.
 
