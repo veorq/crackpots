@@ -10,11 +10,7 @@ transitioned from credible researchers to profit-driven sensationalists,
 presenting falsehoods, speculative ideas, or exaggerated claims as facts
 through mainstream media, popular books, podcasts, or TED Talks. These
 figures capitalize on their credentials and on their audience's
-gullibility, undermining genuine scientific discourse. They include
-characters from outright scammers to researchers past their prime having
-forgotten how science works.
-
-Alphabetically:
+gullibility, undermining genuine scientific discourse. 
 
 * [Lee Cronin](https://www.chem.gla.ac.uk/cronin/), Glasgow Univ (assembly theory, chemcomputer)
 * [Robert E. Grant](https://robertedwardgrant.com/) (the Time AI guy)
