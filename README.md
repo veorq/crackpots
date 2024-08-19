@@ -30,7 +30,7 @@ Alphabetically:
 * The list doesnt include the obvious frauds like flatearthers, medbed
   promoters, or astrologers.
 * It also doesnt include the many crackpots in the fields of global
-  warming and vaccination, for lack of space and time
+  warming and vaccination, for lack of space and time.
 * Crackpotery's type and degree varies; not all crackpots are equally
   sinful and deceptive.
 * You need enough visibility and crackpotism activity to deserve to
