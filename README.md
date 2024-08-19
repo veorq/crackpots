@@ -16,14 +16,14 @@ works.
 
 Alphabetically:
 
-* [Lee Cronin](https://www.chem.gla.ac.uk/cronin/) (assembly theory, chemcomputer)
+* [Lee Cronin](https://www.chem.gla.ac.uk/cronin/), Glasgow Univ (assembly theory, chemcomputer)
 * [Robert E. Grant](https://robertedwardgrant.com/) (the Time AI guy)
-* [Michio Kaku](https://mkaku.org/) (quantum computing)
+* [Michio Kaku](https://mkaku.org/), CUNY (quantum computing)
 * [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen) ("inventor")
 * [Ray Kurzweil](https://www.thekurzweillibrary.com/) (yes, the singularity guy)
-* [Avi Loeb](https://lweb.cfa.harvard.edu/~loeb/) (aliens existence)
-* [Max Tegmark](https://space.mit.edu/home/tegmark/home.html) (multiverse)
-* [Sara Walker](https://search.asu.edu/profile/1731899) (assembly theory)
+* [Avi Loeb](https://lweb.cfa.harvard.edu/~loeb/), Harvard (aliens existence)
+* [Max Tegmark](https://space.mit.edu/home/tegmark/home.html), MIT (multiverse)
+* [Sara Walker](https://search.asu.edu/profile/1731899), ASU (assembly theory)
 
 
 ### Dislaimers:
