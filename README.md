@@ -2,10 +2,10 @@
 
 > If you see fraud and dont say 'fraud', you're fraud. (N. Taleb)
 
-We publish a list of crackpot 'scientists' and 'thinkers' abusing their
+This is a list of crackpot 'scientists' and 'thinkers' abusing their
 academic credentials (if any) or past legitimate works (if any) to
-spread misinformation pseudoscience, or nonsense for personal gain. 
-We especially highlight individuals from reputable institutions who have
+spread misinformation pseudoscience, or nonsense for personal gain.  We
+especially highlight individuals from reputable institutions who have
 transitioned from credible researchers to profit-driven sensationalists,
 spreading falsehoods or speculative ideas as facts through mainstream
 media, popular books, podcasts, or TED Talks. These figures capitalize
@@ -13,8 +13,6 @@ on their credentials and on their audience's gullibility, undermining
 genuine scientific discourse. They include characters from outright
 scammers to researchers past their prime having 'forgotten' how science
 works.
-
-## The list
 
 Alphabetically:
 
@@ -28,7 +26,7 @@ Alphabetically:
 * [Sara Walker](https://search.asu.edu/profile/1731899) (assembly theory)
 
 
-## Dislaimers
+### Dislaimers:
 
 * The list doesnt include the obvious frauds like flatearthers, medbed
   promoters, or astrologers.
@@ -47,7 +45,7 @@ Alphabetically:
 * Obviously, the list isnt exhaustive.
 
 
-## References
+### References:
 
 * Baez' 1998 phyics [crackpot index](https://math.ucr.edu/home/baez/crackpot.html)
 * Gruenberber's 1962 ["A measure for crackpots"](https://www.rand.org/content/dam/rand/pubs/papers/2006/P2678.pdf)
