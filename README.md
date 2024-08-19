@@ -7,12 +7,12 @@ academic credentials (if any) or past legitimate works (if any) to
 spread misinformation, pseudoscience, or nonsense for personal gain.  We
 especially highlight individuals from reputable institutions who have
 transitioned from credible researchers to profit-driven sensationalists,
-spreading falsehoods or speculative ideas as facts through mainstream
-media, popular books, podcasts, or TED Talks. These figures capitalize
-on their credentials and on their audience's gullibility, undermining
-genuine scientific discourse. They include characters from outright
-scammers to researchers past their prime having 'forgotten' how science
-works.
+presenting falsehoods, speculative ideas, or exaggerated claims as facts
+through mainstream media, popular books, podcasts, or TED Talks. These
+figures capitalize on their credentials and on their audience's
+gullibility, undermining genuine scientific discourse. They include
+characters from outright scammers to researchers past their prime having
+'forgotten' how science works.
 
 Alphabetically:
 
