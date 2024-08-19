@@ -12,7 +12,7 @@ through mainstream media, popular books, podcasts, or TED Talks. These
 figures capitalize on their credentials and on their audience's
 gullibility, undermining genuine scientific discourse. They include
 characters from outright scammers to researchers past their prime having
-'forgotten' how science works.
+forgotten how science works.
 
 Alphabetically:
 
