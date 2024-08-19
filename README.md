@@ -47,5 +47,5 @@ Alphabetically:
 
 ### References:
 
-* Baez' 1998 phyics [crackpot index](https://math.ucr.edu/home/baez/crackpot.html)
+* Baez' 1998 physics [crackpot index](https://math.ucr.edu/home/baez/crackpot.html)
 * Gruenberber's 1962 ["A measure for crackpots"](https://www.rand.org/content/dam/rand/pubs/papers/2006/P2678.pdf)
