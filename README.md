@@ -3,12 +3,12 @@
 > If you see fraud and dont say 'fraud', you're fraud. (N. Taleb)
 
 
-This list names and documents figures who exploit their academic
+This page lists individuals who exploit their academic
 credentials (if any), or former legitimate work (if any), to spread
 pseudoscience, speculative hype, or outright nonsense for personal gain.
 We focus on individuals affiliated with reputable institutions who have
 drifted into profit- and attention-driven sensationalism, publishing
-pop-science books, blog posts, appearing on TED stages or podcasts, and
+pop-science books or blog posts, appearing on TED stages or podcasts, and
 presenting exaggeration or fiction as fact.
 
 These figures trade on their perceived authority, misleading the public
