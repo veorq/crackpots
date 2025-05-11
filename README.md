@@ -29,7 +29,7 @@ and undermining real scientific discourse.
 
 * [Lee Cronin](https://www.chem.gla.ac.uk/cronin/), Univ of Glasgow — "chemputer" hype, assembly theory
 
-* [Bill Giannakopoulos](https://www.unsw.edu.au/staff/bill-giannakopoulos): UNSW Sydney — "persistence theory" and consciousness nonsense
+* [Bill Giannakopoulos](https://www.unsw.edu.au/staff/bill-giannakopoulos), UNSW Sydney — "persistence theory" and consciousness nonsense
 
 * [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen) — innovation theater
 
