@@ -1,5 +1,8 @@
 # Crackpots and charlatans 
 
+> It is impossible for someone to lie unless he thinks he knows the
+truth. Producing bullshit requires no such conviction. (H. Frankfurt) 
+
 > If you see fraud and dont say 'fraud', you're fraud. (N. Taleb)
 
 
@@ -65,3 +68,4 @@ and undermining real scientific discourse.
 
 * Baez' 1998 physics [crackpot index](https://math.ucr.edu/home/baez/crackpot.html)
 * Gruenberber's 1962 ["A measure for crackpots"](https://www.rand.org/content/dam/rand/pubs/papers/2006/P2678.pdf)
+* Frankfurt's ["On bullshit"](https://www.math.mcgill.ca/rags/JAC/124/bs.html)
