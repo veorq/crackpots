@@ -35,6 +35,8 @@ and undermining real scientific discourse.
 * [Bill Giannakopoulos](https://www.unsw.edu.au/staff/bill-giannakopoulos), UNSW Sydney — "persistence theory" and consciousness nonsense
 
 * [Dean Kamen](https://www.firstinspires.org/about/leadership/dean-kamen) — innovation theater
+  
+* [Rupert Sheldrake](https://www.sheldrake.org/), ex-Cambridge — morphic resonance pseudoscience
 
 * [Max Tegmark](https://space.mit.edu/home/tegmark/home.html), MIT — multiverse speculation, consciousness mysticism
 
